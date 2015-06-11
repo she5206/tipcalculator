@@ -16,6 +16,6 @@ Spent some time making the UI work across multiple phone resolutions by playing 
 
 Walkthrough of all user stories:
 
-![Video Walkthrough](demo_tip.gif)
+![Video Walkthrough](tip_demo.gif)
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
